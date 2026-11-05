@@ -1,0 +1,7 @@
+{
+  "description": "Illustration only: replace with actual assignment-specific table cell expectations.",
+  "required_table_cells": [
+    {"table": 0, "row": 1, "column": 2, "contains": "2.40 mA"}
+  ],
+  "required_text": ["실험 결과"]
+}
